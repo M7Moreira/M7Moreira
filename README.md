@@ -1,5 +1,9 @@
 # 💫 About Me:
-      Olá Mundo👋<br>🔭 Atualmente trabalho como Técnico de Celular<br>🌱 Estou estudando Front-End<br>🎮 Sou apaixonado pelo mundo dos games<br>📫 Me encontre no https://www.instagram.com/gabrielmoreira_s7/
+      Olá Mundo👋
+      🔭 Atualmente trabalho como Técnico de Celular
+      🌱 Estou estudando Front-End
+      🎮 Sou apaixonado pelo mundo dos games
+    
 
 
 ## 🌐 Socials:
