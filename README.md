@@ -20,6 +20,9 @@
 
 </div>
 
+<div>
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?M7Moreira=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=M7Moreira&icon=0&color=1)](https://visitcount.itsvg.in)
 
