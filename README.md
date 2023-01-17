@@ -34,8 +34,10 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=M7Moreira&show_icons=true" />
 </picture>
+      
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M7Moreira)](https://github.com/M7Moreira/github-readme-stats)
 </div>
 ---
-[![](https://visitcount.itsvg.in/api?id=M7Moreira&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
