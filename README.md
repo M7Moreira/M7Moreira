@@ -34,8 +34,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=M7Moreira&show_icons=true" />
 </picture>
-      api/top-langs?username=anuraghazra
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M7Moreira)](https://github.com/M7Moreira/github-readme-stats)
+      
 </div>
 ---
 
