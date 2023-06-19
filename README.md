@@ -1,6 +1,6 @@
 # 💫 About Me:
       Olá Mundo👋
-      🔭 Atualmente estou sem emprego
+      🔭 Atualmente trabalho com manutenção.
       🌱 Estou estudando progrmação
       🎮 Sou apaixonado pelo mundo dos games
       
